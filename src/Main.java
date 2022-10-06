@@ -3,6 +3,6 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("Bye world!");
         System.out.println("Branch for feature2");
-        System.out.println("Branch from feature2 branch");
+
     }
 }
